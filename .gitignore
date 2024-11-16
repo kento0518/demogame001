@@ -1,0 +1,24 @@
+# Unity specific
+demogame001_unity/[Ll]ibrary/
+demogame001_unity/[Tt]emp/
+demogame001_unity/[Oo]bj/
+demogame001_unity/[Bb]uild/
+demogame001_unity/[Bb]uilds/
+demogame001_unity/[Ll]ogs/
+demogame001_unity/[Mm]emoryCaptures/
+demogame001_unity/[Pp]ackages/com.unity.burst/
+
+# Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-generated files
+.DS_Store
+Thumbs.db
